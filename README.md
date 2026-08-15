@@ -20,8 +20,9 @@ Building scalable backend systems, intelligent workflows, and developer-first au
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-k-r&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-k-r&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" alt="Top languages" height="180" />
+  <img src="https://img.shields.io/github/followers/akshay-k-r?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/akshay-k-r?label=Stars&style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-2%2B-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
 </p>
 
 ---
@@ -43,10 +44,10 @@ I am a software engineer focused on backend systems, infrastructure automation, 
 
 <p align="left">
   <a href="https://github.com/akshay-k-r/Interview-Prep-Resource">
-    <img alt="Interview Prep Resource" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay-k-r&repo=Interview-Prep-Resource&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" />
+    <img alt="Interview Prep Resource" src="https://img.shields.io/badge/Interview%20Prep%20Resource-Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/akshay-k-r/prompt_war_main_challenge">
-    <img alt="MonsoonMitra" src="https://github-readme-stats.vercel.app/api/pin/?username=akshay-k-r&repo=prompt_war_main_challenge&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&bg_color=0D1117" />
+    <img alt="MonsoonMitra" src="https://img.shields.io/badge/MonsoonMitra-Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -190,3 +191,4 @@ I enjoy solving real-world engineering problems, creating useful tools, and shar
 <p align="center">
   <sub>Designed & built by Akshay Kumar</sub>
 </p>
+
