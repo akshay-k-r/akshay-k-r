@@ -133,7 +133,7 @@ Enterprise Software • Guidewire • ETL • Automation
 ## Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akshay-kr?theme=dark&font=baloo&ext=activity" alt="Akshay's LeetCode stats" width="700" />
+  <img src="https://leetcard.jacoblin.cool/akshay-kr?theme=dark&font=baloo&ext=heatmap" alt="Akshay's LeetCode stats" width="700" />
 </p>
 
 ### 673+ LeetCode Problems
