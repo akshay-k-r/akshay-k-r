@@ -170,9 +170,8 @@ Python: 556 • C++: 88 • MySQL: 29
 
 ## Education
 
-**Cambridge Institute of Technology**  
-Bachelor of Engineering in Computer Science & Engineering  
-2017 — 2021 • CGPA: 8.7
+**Bachelor of Engineering in Computer Science & Engineering**  
+<i> 2017 — 2021 </i>
 
 ---
 
