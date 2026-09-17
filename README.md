@@ -20,9 +20,15 @@ Building scalable backend systems, intelligent workflows, and developer-first au
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/akshay-k-r?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/akshay-k-r?label=Stars&style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Public%20Repos-2%2B-181717?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  <a href="https://github.com/akshay-k-r?tab=followers">
+    <img src="https://img.shields.io/github/followers/akshay-k-r?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/akshay-k-r?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akshay-k-r&label=Public%20Repos&query=$.public_repos&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/akshay-k-r?tab=stars">
+    <img src="https://img.shields.io/github/stars/akshay-k-r?label=Stars&style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars" />
+  </a>
 </p>
 
 ---
